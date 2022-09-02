@@ -1,2 +1,2 @@
--e#!/bin/bash\n pwd
+#!/bin/bash\n pwd
 pwd
